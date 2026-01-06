@@ -50,13 +50,20 @@ arXiv: https://arxiv.org/abs/2411.19462
 ## Video Recordings
 
 ### Performances
-- 
 
-### Project Demonstrations
-- 
+- **Croatian Rhapsody (Calculator Performance)**  
+  [Bilibili Video Link](https://www.bilibili.com/video/BV1PS4y1F7xN/)
 
-### Film / Media Work
-- 
+<div style="margin-top: 1rem;">
+  <iframe
+    src="https://player.bilibili.com/player.html?bvid=BV1PS4y1F7xN"
+    width="100%"
+    height="400"
+    scrolling="no"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 ## Audio Recordings
@@ -74,6 +81,22 @@ arXiv: https://arxiv.org/abs/2411.19462
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+- **Music Composition: Mnemostasis**  
+  [SoundCloud Link](https://soundcloud.com/icari_lavendor/mnemostasis/s-han7OnBZ6fw)
+
+<div style="margin-top: 1rem;">
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1916825613%3Fsecret_token%3Ds-han7OnBZ6fw&color=%230055ff&auto_play=false&show_user=true&show_reposts=false">
   </iframe>
 </div>
 
