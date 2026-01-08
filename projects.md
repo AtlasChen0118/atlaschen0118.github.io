@@ -54,6 +54,10 @@ arXiv: https://arxiv.org/abs/2411.19462
 - **Croatian Rhapsody (Calculator Performance)**  
   [Bilibili Video Link](https://www.bilibili.com/video/BV1PS4y1F7xN/)
 
+<p style="margin-top: 0.75em; font-size: 0.95em; line-height: 1.5;">
+This is a piece of calculator performance I have performed and published on Bilibili in 2022, a showcase of my resilience and creativity in an academic environment I have been in that banned musical instruments. It accumulated over half a million views throughout the years.
+</p>
+
 <div style="margin-top: 1rem;">
   <iframe
     src="https://player.bilibili.com/player.html?bvid=BV1PS4y1F7xN"
@@ -70,36 +74,23 @@ arXiv: https://arxiv.org/abs/2411.19462
 
 ### Music
 - **Music Composition: W.H.A.T.?! (Whimsical Happy Afternoon Teatime?!)**  
-  [YouTube Link](https://www.youtube.com/watch?v=YIOlg5tu1eA)
+<p style="margin-top: 0.75em; font-size: 0.95em; line-height: 1.5;">
+This is a light-hearted electronic track featuring playful melodies with crisp rhythmic textures I produced in 2024 with FL Studio. This track started as a 3-hour composition challenge in the UIUC Electronic Music Club, later extended into a full track.
+</p>
 
-<div style="margin-top: 1rem;">
-  <iframe
-    width="100%"
-    height="400"
-    src="https://www.youtube.com/embed/YIOlg5tu1eA"
-    title="YouTube audio player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%3Atracks%3A2242922669%3Fsecret_token%3Ds-lAMXL6SB6zs&color=%232a7ae2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false">
+</iframe>
+
 
 ---
 
-- **Music Composition: Mnemostasis**  
-  [SoundCloud Link](https://soundcloud.com/icari_lavendor/mnemostasis/s-han7OnBZ6fw)
 
-<div style="margin-top: 1rem;">
-  <iframe
-    width="100%"
-    height="166"
-    scrolling="no"
-    frameborder="no"
-    allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%3Atracks%3A2242901921%3Fsecret_token%3Ds-han7OnBZ6fw&color=%23ff5500&auto_play=false&show_user=true&show_reposts=false&visual=true">
-  </iframe>
-</div>
+- **Music Composition: Elegy to Mourn Victims in Trials To**  
+<p style="margin-top: 0.75em; font-size: 0.95em; line-height: 1.5;">
+This is a piece I produced as a project for a Music Theory and Practice course, exploring the notion of blending a classical melancholic Locrian pressing scale to a modern format setting with ample third inversion major seventh chords. It end up being a somber musical reflection resembling loss and remembrance.
+</p>
 
-
-### Algorithmic / Generated Sound
-- 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%3Atracks%3A2242919861%3Fsecret_token%3Ds-WOEWlYpU25b&color=%232a7ae2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false">
+</iframe>
