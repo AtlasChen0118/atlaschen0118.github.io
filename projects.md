@@ -58,7 +58,7 @@ This is a light-weighted Machine Learning based project that measures and classi
   [GitHub Repository](https://github.com/AtlasChen0118/Grid-Singer-A-SuperCollider-based-video-game)
 
 <p style="margin-top: 0.75em; font-size: 0.95em; line-height: 1.5;">
-Grid Singer is a 500-line SuperCollider-based video game project for the course Creative Audio Coding I inspired by the vintage game *Jetpack Joyride*, but where you shout into the microphone instead of holding the screen for character levitation. The louder you shout, the faster you ascend. Due to the nature of SuperCollider, it is not possible to embed the game directly on the website. Please click the embedded link above to my GitHub page for more information and code.
+Grid Singer is a 500-line SuperCollider-based video game project for the course Creative Audio Coding I inspired by the vintage game Jetpack Joyride, but where you shout into the microphone instead of holding the screen for character levitation. The louder you shout, the faster you ascend. Due to the nature of SuperCollider, it is not possible to embed the game directly on the website. Please click the embedded link above to my GitHub page for more information and code.
 </p>
 
 ## Video Recordings
